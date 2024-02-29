@@ -22,6 +22,10 @@
         justify-self: center;
     }
 
+    .secao-horizontal .cartao {
+        column-gap: .5rem;
+    }
+
     .secao-horizontal .cartao__imagem {
         height: 4.58rem;
     }
